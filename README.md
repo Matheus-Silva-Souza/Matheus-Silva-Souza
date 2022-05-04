@@ -2,10 +2,11 @@
 
 
 - 💻 Atualmente trabalho como Desenvolvedor Back-End
-- 📖 Estudante de Análise e desenvolvimento de sistemas
+
+- 📖 Estudanto Análise e desenvolvimento de sistemas
 
 
--->
+
 
 
 <div align="left">
