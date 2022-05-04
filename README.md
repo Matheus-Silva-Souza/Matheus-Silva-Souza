@@ -1,14 +1,10 @@
-### Hi there 👋
+### Olá, Mundo! Eu sou o Matheus Da Silva Souza
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💻 Atualmente trabalho como Desenvolvedor Back-End
+- 📖 Atualmente estou estudando Análise e desenvolvimento de sistemas
+
+
 -->
 
 
@@ -34,6 +30,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg
   <a href="https://www.linkedin.com/in/matheus-silva-60245b225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   <img align="right" alt="Rafa-yoda" height="120" width="150" src="https://c.tenor.com/xa0-7jBASO8AAAAC/baby-yoda.gif">
 </div>
+  
  
  
  
